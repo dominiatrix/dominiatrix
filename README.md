@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi!<br>I'm currently working on building my portfolio<br>I'm learning Next.js and Vue.js <br>I'm open to discuss about anything on React, TypeScript, WebOS or UI/UX Design<br>You can reach me on oteniajulie@gmail.com 
+# 💫 About Julia:
+Hi You!<br>She is currently working on building her portfolio<br>She is learning Next.js and Vue.js <br>She is open to discuss about anything on React, TypeScript, WebOS or UI/UX Design<br>You can reach her on oteniajulie@gmail.com oron her linkedIn below
 
 
 ## 🌐 Socials:
